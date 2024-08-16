@@ -1,7 +1,5 @@
 # Frontend Mentor - QR code component
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
-
 ## The challenge
 
 The challenge was to build out a QR code component and get it looking as close to the design as possible.
